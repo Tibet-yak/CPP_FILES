@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/L30_useGFLWlib.dir/glad.c.o CMakeFiles/L30_useGFLWlib.dir/main.cpp.o -o L30_useGFLWlib  -lglfw 

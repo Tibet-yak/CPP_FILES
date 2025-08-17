@@ -1,0 +1,3 @@
+/home/caohf/Project/CPP_FILES/L47_precompile/build/CMakeFiles/L47_precompile.dir
+/home/caohf/Project/CPP_FILES/L47_precompile/build/CMakeFiles/edit_cache.dir
+/home/caohf/Project/CPP_FILES/L47_precompile/build/CMakeFiles/rebuild_cache.dir
